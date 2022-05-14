@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Admin\Desktop\Test\CameraShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2586286858.index
+\CameraShop\src\main\java
+C:\Users\Admin\Desktop\Test\CameraShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2505626676.index
+\CameraShop\src\main\java

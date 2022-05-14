@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\Test\CameraShop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+326025654.index
+3420391553.index
+2054344660.index
+3040491902.index
+2927500626.index
+536319222.index
